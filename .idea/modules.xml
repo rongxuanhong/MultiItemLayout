@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultipleItemLayout.iml" filepath="$PROJECT_DIR$/MultipleItemLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiItemLayout.iml" filepath="$PROJECT_DIR$/MultiItemLayout.iml" />
+      <module fileurl="file://E:\MultiItemLayout\MultipleItemLayout.iml" filepath="E:\MultiItemLayout\MultipleItemLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\MultiItemLayout\app\app.iml" filepath="E:\MultiItemLayout\app\app.iml" />
     </modules>
   </component>
 </project>
